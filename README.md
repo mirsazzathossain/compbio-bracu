@@ -7,7 +7,7 @@ Welcome to the repository for the "Interdisciplinary Computational Biology Works
 - **Organized by:** [BRAC University](https://www.bracu.ac.bd/)  
 - **Instructors:**  
   - Prof. Amitava Roy - [University of Montana, USA](https://www.umt.edu/)  
-  - Prof. Amin Ahsan Ali - [Independent University, Bangladesh (IUB)](https://www.iub.edu.bd/)  
+  - Prof. Amin Ahsan Ali - [Independent University, Bangladesh (IUB)](https://www.iub.ac.bd/)  
   - Mir Sazzat Hossain - [Center for Computational & Data Sciences (CCDS), IUB](https://ccds.ai/)  
   - Rafat Hasan Khan - [Center for Computational & Data Sciences (CCDS), IUB](https://ccds.ai/)  
 
