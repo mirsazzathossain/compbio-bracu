@@ -4,12 +4,12 @@ Welcome to the repository for the "Interdisciplinary Computational Biology Works
 
 ## 📅 Event Details
 - **Event Name:** Interdisciplinary Computational Biology Workshop  
-- **Organized by:** BRAC University  
+- **Organized by:** [BRAC University](https://www.bracu.ac.bd/)  
 - **Instructors:**  
-  - Prof. Amitava Roy - University of Montana, USA  
-  - Prof. Amin Ahsan Ali - Independent University, Bangladesh (IUB)  
-  - Mir Sazzat Hossain - CCDS, IUB  
-  - Rafat Hasan Khan - CCDS, IUB  
+  - Prof. Amitava Roy - [University of Montana, USA](https://www.umt.edu/)  
+  - Prof. Amin Ahsan Ali - [Independent University, Bangladesh (IUB)](https://www.iub.edu.bd/)  
+  - Mir Sazzat Hossain - [Center for Computational & Data Sciences (CCDS), IUB](https://ccds.ai/)  
+  - Rafat Hasan Khan - [Center for Computational & Data Sciences (CCDS), IUB](https://ccds.ai/)  
 
 - **Materials Prepared by:**  
   Mir Sazzat Hossain, Junior Research Scientist, Center for Computational and Data Sciences, Independent University, Bangladesh  
