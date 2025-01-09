@@ -12,7 +12,7 @@ Welcome to the repository for the "Interdisciplinary Computational Biology Works
   - Rafat Hasan Khan - [Center for Computational & Data Sciences (CCDS), IUB](https://ccds.ai/)  
 
 - **Materials Prepared by:**  
-  - Mir Sazzat Hossain, Junior Research Scientist, CCDS, IUB 
+  - [Mir Sazzat Hossain](https://mirsazzathossain.me/), Junior Research Scientist, CCDS, IUB 
 
 ## 🌐 Workshop Overview
 This workshop focuses on computational biology concepts with a hands-on approach to applying interdisciplinary methods. Participants will learn to use coding frameworks and tools for analyzing biological data.
